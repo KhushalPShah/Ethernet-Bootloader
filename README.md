@@ -1,2 +1,2 @@
 # Ethernet-Bootloader
-A Bootloader for an ARM device, which works via the Ethernet interface.
+A Bootloader for an ARM based device(LPC 1768), which works via the Ethernet interface.
